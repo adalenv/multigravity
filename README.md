@@ -25,7 +25,11 @@ When intensive coding or long autonomous agent sessions exhaust your model quota
 
 ## Quick Start
 
-### 1. Build and Run
+### 1. Download Pre-built Release
+
+Download the latest pre-compiled binary from [Releases](https://github.com/adalenv/multigravity/releases/latest), unzip, and drag `Multigravity.app` into `/Applications`.
+
+### 2. Or Build from Source
 
 Clone the repository and run the build script:
 
