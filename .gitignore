@@ -1,0 +1,5 @@
+.DS_Store
+*.app/
+*.o
+build/
+.antigravity_profiles/
